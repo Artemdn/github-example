@@ -1,2 +1,2 @@
 # github-example
-E[ample repository
+Eхample repository
